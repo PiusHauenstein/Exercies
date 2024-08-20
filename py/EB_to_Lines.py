@@ -4,7 +4,7 @@
 #
 # Projekt:  GKGR 2.0
 # Author:   P. Hauenstein
-# Version:  0.1.0 (xx.11.2021)
+# Version:  1.0.0 (20.08.2024)
 #
 # Zweck:    Umwandlung der Polygone der Erfassungsbereiche in Linien, damit die Attribute
 #           als Liniensymbole dargestellt werden können
@@ -15,7 +15,8 @@
 #
 # Historie:
 # 29.11.2021 Pius Hauenstein             Erstellung (V0.1.0)
-#
+# 20.08.2024 Pius Hauenstein             Migration auf ArcGIS Pro 3.3 (V1.0.0)
+
 # =========================================================================
 # Copyright:
 #
